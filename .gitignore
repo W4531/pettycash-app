@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# env / secrets
+.env
+.env.*
+env.yaml
+*.local.yaml
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# temp uploads (multer)
+tmp/
+uploads/

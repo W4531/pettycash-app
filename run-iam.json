@@ -1,0 +1,13 @@
+{
+  "bindings": [
+    {
+      "members": [
+        "group:pettycash_users@yuadream.com",
+        "user:wohta@yuadream.com"
+      ],
+      "role": "roles/run.invoker"
+    }
+  ],
+  "etag": "BwZISJjri0o=",
+  "version": 1
+}
