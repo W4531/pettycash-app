@@ -1,0 +1,15 @@
+.git
+.github
+node_modules
+.env
+.env.*
+!.env.example
+*.log
+logs
+coverage
+test-results
+screenshots
+docs
+*.pdf
+*.zip
+.DS_Store
